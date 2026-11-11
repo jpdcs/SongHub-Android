@@ -24,16 +24,6 @@
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/Video2.mp4",
     },
     {
-      "folder": "bgv/Nature",
-      "fileName": "Video3.mp4",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/Video3.mp4",
-    },
-    {
-      "folder": "bgv/Nature",
-      "fileName": "Video4.mp4",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/Video4.mp4",
-    },
-    {
       "folder": "bgv/Motion",
       "fileName": "motion1.mp4",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/motion1.mp4",
@@ -42,16 +32,6 @@
       "folder": "bgv/Motion",
       "fileName": "motion2.mp4",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/motion2.mp4",
-    },
-    {
-      "folder": "bgv/Motion",
-      "fileName": "motion3.mp4",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/motion3.mp4",
-    },
-    {
-      "folder": "bgv/Motion",
-      "fileName": "motion4.mp4",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/motion4.mp4",
     },
     {
       "folder": "bgv/3D",
