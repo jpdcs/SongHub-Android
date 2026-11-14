@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 416,
-    "versionName": "4.16.67",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/4.16.67/app-release.apk",
-    "changelog": "• Same changelog and features as version 4.15.67.\n• Hotfix: Fixed MTV video being cropped in portrait mode.\n• Hotfix: Fixed MTV playback sync and optimization.\n• Hotfix: Fixed XLS export. It now uses the XLS 2003 format (required by Mega Karaoke Songbook).\n• If you have already installed 4.15.67, go to Settings > Check App Updates to update. No need to uninstall.\n• If you are using version 3.xx.xx or earlier, or a modified app, uninstall it and install the new official update. This is an app update, not a song content update.",
+    "versionCode": 510,
+    "versionName": "5.10.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/5.10.67/app-release.apk",
+    "changelog": "• This is a massive update. New features, improvements and optimizations!. Please go to https://github.com/jpdcs/SongHub-Android/releases/tag/5.10.67 and read the changelogs.\n• Reduced Background video file prebuilt download",
     "forceUpdate": true
   },
   "files": [
