@@ -1,11 +1,11 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 510,
-    "versionName": "5.10.67",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/5.10.67/app-release.apk",
-    "changelog": "• This is a massive update. New features, improvements and optimizations!. Please go to https://github.com/jpdcs/SongHub-Android/releases/tag/5.10.67 and read the changelogs.\n• Reduced Background video file prebuilt download",
-    "forceUpdate": true
+    "versionCode": 519,
+    "versionName": "5.19.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/5.12.67/app-release.apk",
+    "changelog": "• New options: Disable Main Menu navigation animation, Open/Close Arrow key mapping, Song Entry Overlay text size and style, and Lyric Font Style.\n• Fixed D-pad scrolling in Settings, the interlude image position, the Hide Arrow Button switch, and the keypad arrow on some TVs.\n• Please go to https://github.com/jpdcs/SongHub-Android/releases/tag/5.19.67 and read the full changelog.",
+    "forceUpdate": false
   },
   "files": [
     {
