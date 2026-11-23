@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 519,
-    "versionName": "5.19.67",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/5.19.67/app-release.apk",
-    "changelog": "• New options: Disable Main Menu navigation animation, Open/Close Arrow key mapping, Song Entry Overlay text size and style, and Lyric Font Style.\n• Fixed D-pad scrolling in Settings, the interlude image position, the Hide Arrow Button switch, and the keypad arrow on some TVs.\n• Please go to https://github.com/jpdcs/SongHub-Android/releases/tag/5.19.67 and read the full changelog.",
+    "versionCode": 523,
+    "versionName": "5.23.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/5.23.67/app-release.apk",
+    "changelog": "What's New\n🚀 New Features\n- iOS Remote Soundboard Controls: Added soundboard buttons to the iOS Remote! You can now trigger and control the Mini Soundboard directly from your remote device. (Smart Link Remote app coming soon!)\n- Expanded Mini Soundboard: Added 4 new soundpads to the Mini Soundboard—more sounds, more fun!\n⚡ Improvements & Optimizations\n- MIDI Engine Optimization: Improved overall performance and stability. The engine now defaults to 198 polyphony and a 44,100 Hz sample rate.\n🐛 Bug Fixes\n- Animated GIF Banners: Fixed an issue where using an animated GIF in the banner caused heavy graphics rendering lag and misaligned the banner to the top-left corner instead of centering it on the screen.\n- TouchKeypad Navigation (the right-side touch keypad panel on landscape): Fixed TouchKeypad panel input issues when pressing number keys using a handheld remote (pressing the next number plays the song unexpectedly). (Tip: For the best experience, we recommend using the Smart Link app or iOS Remote.)",
     "forceUpdate": false
   },
   "files": [
